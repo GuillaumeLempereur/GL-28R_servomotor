@@ -1,0 +1,16 @@
+
+Element["" "" "" "" 160000 30000 0 0 0 100 ""]
+(
+	# Elements pins
+	# Pin[x, y, Thickness, Clearance, Mask, DrillHole, Name, Number, Flags]
+
+	Pin[-9843 0 8000  4000  8600  3150 "1" "1" "edge2"]
+	Pin[0     0 8000  4000  8600  3150 "2" "2" "edge2"]
+	Pin[9843  0 8000  4000  8600  3150 "3" "3" "edge2"]
+	Pin[19686 0 8000  4000  8600  3150 "4" "4" "edge2"]	
+	ElementLine [-19488 12205 29331 12205 2000]
+	ElementLine [-15488 -7087 29331 -7087 2000]	
+	ElementLine [-19488 12205 -19488 -2087 2000]	
+	ElementLine [ 29331 12205  29331 -7087 2000]
+	ElementLine [-19488 -2087 -15488 -7087 2000]				
+	)
