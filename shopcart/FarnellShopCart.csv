@@ -1,0 +1,32 @@
+N° de ligne,Code Commande,Conforme RoHS ?,Remarques,Qté :,Référence du fabricant,Fabricant / Description,Disponibilité,Prix unitaire,Prix,Prix avec remise
+1,2496771,YES,,40.0,"0402B104K160CT","Product Range:-; Capacitance:0.1µF; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Voltage Rating:16V; Ceramic Capacitor Case:0402 [1005 Metric]; Operating Temperature",553520,0.0044,0.18,,
+2,2496834,YES,,40.0,"0603B104K500CT","Product Range:-; Capacitance:0.1µF; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Voltage Rating:50V; Ceramic Capacitor Case:0603 [1608 Metric]; Operating Temperature",1943846,0.0081,0.32,,
+3,1758924,YES,,10.0,"MC0402B103K250CT","Product Range:MC Series; Capacitance:0.01µF; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Voltage Rating:25V; Ceramic Capacitor Case:0402 [1005 Metric]; Operating Temperatu",38316,0.0071,0.07,,
+4,2469398,YES,,15.0,"ZRB18AR61E106ME01L","Product Range:ZRA Series; Capacitance:10µF; Capacitance Tolerance:± 20%; Dielectric Characteristic:X5R; Voltage Rating:25V; Ceramic Capacitor Case:0603 [1608 Metric]; Operating Temperatur",40104,0.2800,4.20,,
+5,2426953,YES,,10.0,"GRM155R61A105ME15D","Product Range:GRM Series; Capacitance:1µF; Capacitance Tolerance:± 20%; Dielectric Characteristic:X5R; Voltage Rating:10V; Ceramic Capacitor Case:0402 [1005 Metric]; Operating Temperature",27031,0.0232,0.23,,
+6,1758928,YES,,10.0,"MC0402F223Z250CT","Product Range:MC Series; Capacitance:0.022µF; Capacitance Tolerance:+80%, -20%; Dielectric Characteristic:Y5V; Voltage Rating:25V; Ceramic Capacitor Case:0402 [1005 Metric]; Operating Tem",9464,0.0137,0.14,,
+7,2426952,YES,,10.0,"GRM155R60J475ME47D","Product Range:GRM Series; Capacitance:4.7µF; Capacitance Tolerance:± 20%; Dielectric Characteristic:X5R; Voltage Rating:6.3V; Ceramic Capacitor Case:0402 [1005 Metric]; Operating Temper",132037,0.1140,1.14,,
+8,1104204,YES,,10.0,"22035045","Product Range:SPOX 5267 Series; Contact Termination Type:Through Hole; Gender:Header; No. of Contacts:4; Pitch Spacing:2.5mm; Contact Plating:Tin Plated Contacts; Contact Material:Bras",15031,0.1400,1.40,,
+9,9845291,YES,,10.0,"FDS6990A","Transistor Polarity:Dual N Channel; Continuous Drain Current Id:7.5A; Drain Source Voltage Vds:30V; On Resistance Rds(on):0.011ohm; Rds(on) Test Voltage Vgs:10V; Threshold Voltage Vgs:1.9V; Power Dissipa",1766,0.9210,9.21,,
+10,1345945,YES,,5.0,"NANOSMDC150F-2","Product Range:PolySwitch nanoSMDC Series; Holding Current:1.5A; Tripping Current:3A; Voltage Rating:6VDC; Thermistor Mounting:SMD; Operating Temperature Min:-40°C; Operating Temperature Max:8",10,0.3390,1.70,,
+11,2502795,YES,,50.0,"WF06P10R0FTL","Product Range:WF06P Series; Resistance:10ohm; Power Rating:125mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape; Resis",2300,0.0049,0.25,,
+12,9233008,YES,,30.0,"RC0402JR-07100KL","Product Range:RC Series; Resistance:100kohm; Power Rating:63mW; Resistance Tolerance:± 5%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resistor",15779,0.0082,0.25,,
+13,9232885,YES,,10.0,"RC0402JR-0710KL","Product Range:RC Series; Resistance:10kohm; Power Rating:62.5mW; Resistance Tolerance:± 5%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resisto",100133,0.0082,0.08,,
+14,2447230,YES,,10.0,"MCWR06X1002FTL","Product Range:MCWR Series; Resistance:10kohm; Power Rating:100mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape; Resistor",168396,0.0067,0.07,,
+15,1803764,Y-EX,,10.0,"MC00625W04021140K","Product Range:MC Series; Resistance:140kohm; Power Rating:62.5mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resis",30006,0.0118,0.12,,
+16,2447150,YES,,10.0,"MCWR04X2491FTL","Product Range:MCWR Series; Resistance:2.49kohm; Power Rating:62.5mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resi",6190,0.0066,0.07,,
+17,2447151,YES,,10.0,"MCWR04X2701FTL","Product Range:MCWR Series; Resistance:2.7kohm; Power Rating:62.5mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resist",8720,0.0065,0.07,,
+18,2447140,YES,,10.0,"MCWR04X2400FTL","Product Range:MCWR Series; Resistance:240ohm; Power Rating:62.5mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resisto",7640,0.0064,0.06,,
+19,9238549,YES,,10.0,"RC0603FR-073K3L","Product Range:RC Series; Resistance:3.3kohm; Power Rating:100mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape; Resistor E",52839,0.0064,0.06,,
+20,2447385,YES,,10.0,"MCWR06X4701FTL","Product Range:MCWR Series; Resistance:4.7kohm; Power Rating:100mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape; Resistor",102483,0.0066,0.07,,
+21,1802912,Y-EX,,10.0,"MC00625W0402159R","Product Range:MC Series; Resistance:59ohm; Power Rating:62.5mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resistor",105,0.0120,0.12,,
+22,1207268,YES,,5.0,"SN65HVD233DG4","IC Interface Type:CAN; No. of TX Buffers:1; No. of RX Buffers:1; Supply Voltage Min:3V; Supply Voltage Max:3.6V; Interface Case Style:SOIC; No. of Pins:8; Operating Temperature Min:-40°C",2935,2.5300,12.65,,
+23,1099561,YES,,5.0,"M52-040023V1045","Product Range:Archer M52 Series; Contact Termination Type:Through Hole; Gender:Header; No. of Contacts:10; Pitch Spacing:1.27mm; Contact Plating:Gold Plated Contacts; Contact Material:Coppe",1977,1.2600,6.30,,
+24,9451170,YES,,10.0,"MCGPR25V476M5X11","Product Range:MCGPR Series; Capacitance:47µF; Capacitance Tolerance:± 20%; Voltage Rating:25V; Diameter:5mm; Capacitor Terminals:Radial Leaded; Packaging:Each; ESR:-; Height:11mm; Lead Spac",15718,0.0523,0.52,,
+25,2215108,YES,,1.0,"STM32F3DISCOVERY","Silicon Manufacturer:STMicroelectronics; Core Architecture:ARM; Core Sub-Architecture:Cortex-M4; Silicon Core Number:STM32; Silicon Family Name:STM32F3xx; No. of Bits:32bit; Kit Conte",383,10.8300,10.83,,
+
+,,,,,,,Sous-total,50.09
+,,,,,,,Total des marchandises,50.09
+,,,,,,,Livraison de base,0.00
+,,,,,,,TVA,Unknown
+,,,,,,,Total,50.09
