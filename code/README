@@ -1,2 +1,9 @@
 cube folder is empty, you have to download it here: (get software button)
 https://my.st.com/content/my_st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef3.html
+
+To program, follow the step discribes in https://github.com/stv0g/stm32cube-gcc
+The makefile has been adapted to the F3 series.
+Simple test: 
+Go to the blinky/ directory
+Run 'make' to compile the code
+'make program' to program the MCU
